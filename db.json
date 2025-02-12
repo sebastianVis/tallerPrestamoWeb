@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "id": "1739365836132",
+      "nombre": "jose",
+      "documento": "1048066278",
+      "prestamos": [
+        {
+          "id": 1739366269253,
+          "monto": 123,
+          "tasaInteres": 1,
+          "plazoMeses": 12,
+          "tipoAmortizacion": "Francés"
+        },
+        {
+          "id": 1739366277574,
+          "monto": 14444,
+          "tasaInteres": 2,
+          "plazoMeses": 12,
+          "tipoAmortizacion": "Francés"
+        }
+      ]
+    }
+  ]
+}
